@@ -22,3 +22,6 @@ In this version, JSON was totally rewritten.
 
 2.30  Fri Sep 10 12:46:13 2010
 	- Split out JSON::PP from the main JSON distribution.
+
+
+Nuevo Cambio
